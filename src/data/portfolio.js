@@ -9,7 +9,7 @@ export default [
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.png',
         stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https://www.google.com',
+        link: 'https://github.com/camsteinberg/personal-portfolio',
     },
     {
         title: 'Future Project 2',

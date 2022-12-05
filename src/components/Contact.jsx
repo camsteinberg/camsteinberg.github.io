@@ -3,7 +3,7 @@ import React from "react";
 function Contact() {
     return (
         <div className="flex flex-col mb-10 mx-auto">
-            <h2 className="flex justify-center mb-2 text-2xl ">Contact Form</h2>
+            <h2 className="flex justify-center mb-2 text-2xl ">Want to reach out? Here's how!</h2>
             <div className="flex justify-center
             items-center">
                 <form
@@ -30,7 +30,7 @@ function Contact() {
                         className="text-center inline-block
                         px-8 py-3 w-max text-base font-medium
                         rounded-md text-white bg-gradient-to-r
-                        from-yellow-500 to-pink-500 drop-shadow-md
+                        from-blue-500 to-pink-500 drop-shadow-md
                         hover:stroke-white">
                         Work With Me
                     </button>
