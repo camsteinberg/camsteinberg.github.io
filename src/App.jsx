@@ -6,13 +6,15 @@ import Portfolio from './components/Portfolio'
 import Contact from './components/Contact'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
+    <div className="bg-white text-stone-900
+    min-h-screen font-inter max-w-5xl w-11/12 mx-auto">
       <Intro />
       <Portfolio />
       <Timeline />
+      <Contact />
+      <Footer />
     </div>
   )
 }
