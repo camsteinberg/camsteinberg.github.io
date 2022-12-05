@@ -1,9 +1,9 @@
 import React from "react";
+import Title from "./Title";
 
 function Contact() {
     return (
         <div className="flex flex-col mb-10 mx-auto">
-            <h2 className="flex justify-center mb-2 text-2xl ">Want to reach out? Here's how!</h2>
             <div className="flex justify-center
             items-center">
                 <form
@@ -11,6 +11,7 @@ function Contact() {
                     method="POST"
                     className="flex flex-col w-full md:w-7/12"
                 >
+                    <Title>Want to reach out? Here's how!</Title>
                     <input 
                         type="text"
                         name="name"
