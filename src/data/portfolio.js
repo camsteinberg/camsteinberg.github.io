@@ -1,20 +1,20 @@
 export default [
     {
-        title: 'Future Project',
-        imgUrl: '/assets/portfolio.png',
-        stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https://www.google.com',
-    },
-    {
         title: 'Developer Portfolio',
         imgUrl: '/assets/portfolio.png',
-        stack: ['HTML', 'CSS', 'JavaScript'],
+        stack: ['React.JS', 'Tailwind', 'JavaScript'],
         link: 'https://github.com/camsteinberg/personal-portfolio',
     },
     {
-        title: 'Future Project 2',
-        imgUrl: '/assets/portfolio.png',
+        title: 'Tic-Tac-Toe Project',
+        imgUrl: '/assets/placeholder.png',
         stack: ['HTML', 'CSS', 'JavaScript'],
-        link: 'https://www.google.com',
+        link: '',
+    },
+    {
+        title: 'Crab Game',
+        imgUrl: '/assets/placeholder.png',
+        stack: ['C#', 'Unity Game Engine'],
+        link: '',
     }
 ]
