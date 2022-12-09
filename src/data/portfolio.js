@@ -6,7 +6,7 @@ export default [
         link: 'https://github.com/camsteinberg/personal-portfolio',
     },
     {
-        title: 'Basic Tic-Tac-Toe Project',
+        title: 'Tic-Tac-Toe Project',
         imgUrl: '/assets/tictactoe.png',
         stack: ['HTML', 'CSS', 'JavaScript'],
         link: '',
